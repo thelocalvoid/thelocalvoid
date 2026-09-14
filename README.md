@@ -5,6 +5,12 @@ I have been programming in games since 2019, starting with Lua - Learning the ba
 I later moved to creating mods for games, where I learnt my way around HTML & JavaScript, as well as C# later on.
 Discovering that I could create development tools, using the languages I knew - I began getting hooked on optimizing workflows, and increasing the scope of what is possible.
 
+## Check out my work
+
+**My personal favourites:**
+- https://github.com/thelocalvoid/lv-debugmodule
+- https://github.com/thelocalvoid/placement-tool
+
 ## More
 
 - 🌱 I’m currently learning C++ and Desktop App development
