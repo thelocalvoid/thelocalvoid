@@ -11,6 +11,12 @@ Discovering that I could create development tools, using the languages I knew - 
 - https://github.com/thelocalvoid/lv-debugmodule
 - https://github.com/thelocalvoid/placement-tool
 
+## Certificates
+
+#### Coddy
+- C++ Fundamentals https://coddy.tech/certifications/MNdvWy-cpp-GqRKk4
+- C++ Logic & Flow https://coddy.tech/certifications/MNdvWy-cpp-MVHUBJ
+
 ## More
 
 - 🌱 I’m currently learning C++ and Desktop App development
