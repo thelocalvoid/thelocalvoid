@@ -1,6 +1,7 @@
 # G'day, i'm Rick 👋
 AKA **thelocalvoid** or **thelo**
-## About me
+
+## Background
 I have been programming in games since 2019, starting with Lua - Learning the basics in Roblox Studio.
 I later moved to creating mods for games, where I learnt my way around HTML & JavaScript.
 Discovering that I could create development tools, using the languages I knew - I began getting hooked on optimizing workflows, and increasing the scope of what is possible.
