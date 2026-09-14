@@ -1,5 +1,5 @@
 # G'day, i'm Rick 👋
-AKA **thelocalvoid**
+AKA **thelocalvoid** or **thelo**
 ## About me
 I have been programming in games since 2019, starting with Lua - Learning the basics in Roblox Studio.
 I later moved to creating mods for games, where I learnt my way around HTML & JavaScript, as well as C# later on.
@@ -8,7 +8,7 @@ Discovering that I could create development tools, using the languages I knew - 
 ## More
 
 - 🌱 I’m currently learning C++ and Desktop App development
-- 📫 How to reach me: 📩thelocalvoid@hotmail.com | thelocalvoid_ on X/Twitter or instagram
+- 📫 How to reach me: 📩thelocalvoid@hotmail.com | thelocalvoid_ on Twitter or Instagram
   
 <!--
 **thelocalvoid/thelocalvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
