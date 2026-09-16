@@ -21,7 +21,7 @@ Discovering that I could create development tools, using the languages I knew - 
 ## More
 
 - 🌱 I’m currently learning C++ and Desktop App development
-- 📫 How to reach me: 📩thelocalvoid@hotmail.com | [Instagram](https://github.com/thelocalvoid) | [X/Twitter](https://x.com/thelocalvoid_)
+- 📫 Reach out to me: 📩thelocalvoid@hotmail.com | [Instagram](https://www.instagram.com/thelocalvoid_) | [X/Twitter](https://x.com/thelocalvoid_)
   
 <!--
 **thelocalvoid/thelocalvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
