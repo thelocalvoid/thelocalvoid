@@ -1,5 +1,5 @@
-# G'day, i'm Rick 👋
-AKA **thelocalvoid** or **thelo**
+# G'day 👋
+I go by **thelocalvoid** or **thelo**
 
 ## Background
 I have been programming in games since 2019, starting with Lua - Learning the basics in Roblox Studio.
